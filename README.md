@@ -5,6 +5,8 @@
 - 📫 How to reach me: thaniagomes.job@gmail.com
 - 😄 Pronouns: she/her
 
+
+
 <div align="center">
   <a href="https://github.com/thaniagomes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thaniagomes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -32,4 +34,8 @@
  
   ![Snake animation](https://github.com/thaniagomes/thaniagomes/blob/output/github-contribution-grid-snake.svg)
  
+</div>
+
+<div align="right">
+<a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/1c8d00ad0c9ebb145a3ddaa99f1a18ad.gif" width="125" height="125" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"></a>
 </div>
