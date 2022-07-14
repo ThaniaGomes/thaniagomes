@@ -33,9 +33,9 @@
   <a href="https://www.linkedin.com/in/thânia-gomes-186ab81a5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-<div align="center">
-![Snake animation](https://github.com/thaniagomes/thaniagomes/blob/output/github-contribution-grid-snake.svg)
-</div>
+
+                  ![Snake animation](https://github.com/thaniagomes/thaniagomes/blob/output/github-contribution-grid-snake.svg)
+
   
 <div align="right">
 <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/1c8d00ad0c9ebb145a3ddaa99f1a18ad.gif" width="125" height="125" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"></a>
