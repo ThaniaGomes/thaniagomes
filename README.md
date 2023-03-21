@@ -48,7 +48,7 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{thaniagomes}/count.svg" /></p> 
 <br></div>
 
-<div align="right">
+<div align="center">
 <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/1c8d00ad0c9ebb145a3ddaa99f1a18ad.gif" width="125" height="125" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"></a>
 </div>
 
