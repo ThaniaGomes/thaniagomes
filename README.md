@@ -10,7 +10,7 @@
 </div>
 <br/>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=thaniagomes&bg_color=dda6ed&color=8c0ad1&line=8207bb&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thaniagomes&theme=cottoncandy)](https://github.com/thaniagomes/github-readme-activity-graph)
 
 <br/><br/>
 
